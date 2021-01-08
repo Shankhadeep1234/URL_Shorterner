@@ -1,4 +1,4 @@
-# Coding Pen
+# URL Shrinker
 
 [![N|Solid](/image/readme_image.png)]()
 
