@@ -1,8 +1,8 @@
 # Coding Pen
 
-[![N|Solid](/readme_image.png)]()
+[![N|Solid](/image/readme_image.png)]()
 
-[CodingPen](https://codingpen.netlify.app/) is an online URL Shortener for your very looooooong URLs.
+URL Shrinker is an online URL Shortener for your very looooooong URLs.
 
 Use the package manager NPM to install in your local machine.
 
