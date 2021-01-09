@@ -16,5 +16,3 @@ npm run devStart
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-**This is not a production level code, please don't use it without the project owner concern**
